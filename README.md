@@ -17,7 +17,7 @@
 
 ### La suite pensé pour Le Mans Ultimate.
 
-**Gestion de team · Gestion des pilotes · Stratégie de course · Analyse télémétrie · Overlay temps réel · Setup sur mesure**
+**Stratégie de course · Pit Wall · Analyse télémétrie · Gestion de team · Gestion des pilotes · Overlay temps réel · Setup IA**
 
 [![Statut](https://img.shields.io/badge/statut-en%20d%C3%A9veloppement%20actif-orange)](#)
 [![Plateforme](https://img.shields.io/badge/plateforme-Windows-blue)](#)
@@ -37,7 +37,7 @@
 
 ## À propos
 
-**Race Suite Ultimate** est une suite logicielle professionnelle conçue **exclusivement pour Le Mans Ultimate (LMU)**, à destination des pilotes compétitifs et des équipes esport. Elle réunit dans un seul outil ce qui est aujourd'hui dispersé entre tableurs, outils génériques et bricolage maison : stratégie de course, analyse de performance, gestion d'équipe et suivi des pilotes.
+**Race Suite Ultimate** est une suite logicielle professionnelle conçue **exclusivement pour Le Mans Ultimate (LMU)**, à destination des pilotes compétitifs et des équipes esport. Elle réunit dans un seul outil tous l'ensemble des outils nécessaires pour performer : stratégie de course, analyse de performance, gestion d'équipe et suivi des pilotes.
 
 > Le code source de ce projet est **fermé** (produit commercial). Ce repository sert de **vitrine publique** et de **canal officiel de remontée de bugs/suggestions**.
 
@@ -50,11 +50,21 @@
 <td width="50%" valign="top">
 
 ### 🏁 Stratégie de course
-Planification de stints, gestion carburant/pneus, simulation de scénarios de course en temps réel.
+Planification de stints, gestion carburant/pneus, simulation de scénarios de course — préparation en amont et analyse à froid.
 
 <img src="[SCREENSHOT_STRATEGIE]" width="100%" alt="Module Stratégie" />
 
 </td>
+<td width="50%" valign="top">
+
+### 🧭 Pit Wall
+Pilotage de la stratégie **en temps réel pendant la course** : suivi live, ajustements des plans de stint, décisions à chaud — le complément direct du module Stratégie.
+
+<img src="[SCREENSHOT_PITWALL]" width="100%" alt="Module Pit Wall" />
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 Analyse télémétrie
@@ -63,8 +73,6 @@ Comparaison de tours, découpage par secteurs, thermique pneus, rapports de perf
 <img src="[SCREENSHOT_TELEMETRIE]" width="100%" alt="Module Analyse télémétrie" />
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 👥 Gestion de team
@@ -73,12 +81,17 @@ Rôles, line-up, suivi de performance et vie d'équipe centralisés.
 <img src="[SCREENSHOT_TEAM]" width="100%" alt="Module Gestion de team" />
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🧑‍✈️ Gestion des pilotes
 Profils, progression, objectifs et historique de course par pilote.
 
 <img src="[SCREENSHOT_PILOTES]" width="100%" alt="Module Gestion des pilotes" />
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -93,9 +106,18 @@ Affichage télémétrie personnalisable en course, sans impact sur les performan
 
 <br/>
 
+### 🎯 Setup sur mesure assisté par IA
+Recommandations de réglages de voiture personnalisées, générées à partir de ton style de pilotage, de tes retours et des données de télémétrie collectées — pour converger plus vite vers un setup qui te correspond, sans deviner à l'aveugle.
+
+<div align="center">
+<img src="[SCREENSHOT_SETUP_IA]" width="850" alt="Setup sur mesure assisté par IA" />
+</div>
+
+<br/>
+
 ## Téléchargement
 
-Race Suite Ultimate est distribué sous **licence B2B, par siège ou par équipe**.
+Race Suite Ultimate sera distribué sous **licence B2B, par siège ou par équipe**.
 
 | | |
 |---|---|
@@ -117,6 +139,10 @@ Les retours utilisateurs sont essentiels au développement de l'outil. Utilise l
 ### Rejoindre la communauté
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white)]([LIEN_DISCORD])
 -->
+
+## Contributeurs
+
+Développé avec la team Rhein Motorsport.
 
 ## Licence
 
