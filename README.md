@@ -37,7 +37,7 @@
 
 ## À propos
 
-**Race Suite Ultimate** est une suite logicielle professionnelle conçue **exclusivement pour Le Mans Ultimate (LMU)**, à destination des pilotes compétitifs et des équipes esport. Elle réunit dans un seul outil tous l'ensemble des outils nécessaires pour performer : stratégie de course, analyse de performance, gestion d'équipe et suivi des pilotes.
+**Race Suite Ultimate** est une suite logicielle professionnelle conçue **exclusivement pour Le Mans Ultimate (LMU)**, à destination des pilotes compétitifs et des équipes esport. Elle réunit dans un seul outil tous l'ensemble des outils nécessaires pour performer : stratégie de course, analyse de performance, gestion d'équipe et suivi des pilotes. Développé en collaboration avec l'équipe Rhein Motorsport.
 
 > Le code source de ce projet est **fermé** (produit commercial). Ce repository sert de **vitrine publique** et de **canal officiel de remontée de bugs/suggestions**.
 
@@ -139,10 +139,6 @@ Les retours utilisateurs sont essentiels au développement de l'outil. Utilise l
 ### Rejoindre la communauté
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white)]([LIEN_DISCORD])
 -->
-
-## Contributeurs
-
-Développé avec la team Rhein Motorsport.
 
 ## Licence
 
