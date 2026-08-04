@@ -17,7 +17,7 @@
 
 ### La suite pensé pour Le Mans Ultimate.
 
-**Stratégie de course · Analyse télémétrie · Gestion de team · Gestion des pilotes · Overlay temps réel**
+**Gestion de team · Gestion des pilotes · Stratégie de course · Analyse télémétrie · Overlay temps réel · Setup sur mesure**
 
 [![Statut](https://img.shields.io/badge/statut-en%20d%C3%A9veloppement%20actif-orange)](#)
 [![Plateforme](https://img.shields.io/badge/plateforme-Windows-blue)](#)
@@ -93,17 +93,6 @@ Affichage télémétrie personnalisable en course, sans impact sur les performan
 
 <br/>
 
-## Sous le capot
-
-Application desktop native construite avec **Tauri** (backend Rust) et une interface **React/TypeScript**, avec ingestion et stockage local de la télémétrie pour des performances maximales en course. Conçue spécifiquement autour du moteur et des données de Le Mans Ultimate — pas un outil générique multi-simulateurs.
-
-**Compatibilité**
-- Simulateur : Le Mans Ultimate (rFactor 2 engine)
-- Plateforme : Windows
-- Usage : pilote solo ou équipe esport (licences par siège)
-
-<br/>
-
 ## Téléchargement
 
 Race Suite Ultimate est distribué sous **licence B2B, par siège ou par équipe**.
@@ -128,18 +117,6 @@ Les retours utilisateurs sont essentiels au développement de l'outil. Utilise l
 ### Rejoindre la communauté
 [![Discord](https://img.shields.io/badge/Discord-Rejoindre-5865F2?logo=discord&logoColor=white)]([LIEN_DISCORD])
 -->
-
-<br/>
-
-## Roadmap
-
-- [x] Module Stratégie
-- [x] Module Analyse télémétrie
-- [x] Module Gestion de team
-- [ ] Module Setup (V2)
-- [ ] Overlay avancé multi-écrans
-
-<br/>
 
 ## Licence
 
