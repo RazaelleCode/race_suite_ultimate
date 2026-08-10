@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="[LOGO_URL]" width="120" alt="Race Suite Ultimate" />
+<img src="https://github.com/RazaelleCode/race_suite_ultimate/blob/main/RSU_Full_Fond-sombre_1024.png" width="120" alt="Race Suite Ultimate" />
 
 # Race Suite Ultimate
 
