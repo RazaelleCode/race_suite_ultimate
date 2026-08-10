@@ -25,7 +25,7 @@
 [![Licence](https://img.shields.io/badge/licence-B2B%20%2F%20par%20%C3%A9quipe-lightgrey)](#)
 
 
-**Coming soon --> [🌐 Site officiel]([LIEN_SITE]) · [⬇️ Télécharger]([LIEN_DOWNLOAD]) · [🐞 Signaler un bug](https://github.com/RazaelleCode/race_suite_ultimate/issues) · [✉️ Contact]([LIEN_CONTACT])**
+**Coming soon --> [🌐 Site officiel]([LIEN_SITE]) · [⬇️ Télécharger]([LIEN_DOWNLOAD]) · [🐞 Signaler un bug](https://github.com/RazaelleCode/race_suite_ultimate/issues**
 
 <br/>
 
