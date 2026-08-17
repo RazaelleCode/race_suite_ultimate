@@ -17,7 +17,7 @@
 
 ### La suite pensé pour Le Mans Ultimate.
 
-**Stratégie de course · Pit Wall · Analyse télémétrie · Gestion de team · Overlay temps réel · Setup IA**
+**Stratégie de course · Pit Wall · Analyse télémétrie · Gestion de team · Overlay temps réel · Setup assisté par IA**
 
 [![Statut](https://img.shields.io/badge/statut-en%20d%C3%A9veloppement%20actif-orange)](#)
 [![Plateforme](https://img.shields.io/badge/plateforme-Windows-blue)](#)
