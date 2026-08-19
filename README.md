@@ -25,7 +25,7 @@
 [![Licence](https://img.shields.io/badge/licence-B2B%20%2F%20par%20%C3%A9quipe-lightgrey)](#)
 
 
-**Coming soon --> [🌐 Site officiel]([LIEN_SITE]) · [⬇️ Télécharger]([LIEN_DOWNLOAD]) · [🐞 Signaler un bug](https://github.com/RazaelleCode/race_suite_ultimate/issues) **
+**Coming soon --> [🌐 Site officiel]([https://racesuiteultimate.fr]) · [⬇️ Télécharger]([LIEN_DOWNLOAD]) · [🐞 Signaler un bug](https://github.com/RazaelleCode/race_suite_ultimate/issues) **
 
 <br/>
 
@@ -121,7 +121,7 @@ Race Suite Ultimate sera distribué sous **licence B2B, par siège ou par équip
 
 | | |
 |---|---|
-| 🌐 **Site officiel** | [LIEN_SITE] |
+| 🌐 **Site officiel** | [https://racesuiteultimate.fr] |
 | ⬇️ **Télécharger l'exécutable** | [LIEN_DOWNLOAD] |
 | 💬 **Demander une démo / une offre team** | [LIEN_CONTACT] |
 
