@@ -45,7 +45,7 @@ Planification des relais à partir d'une séance réellement roulée : consommat
 Le muret pendant la course : classement et écarts, relais en cours, carburant et énergie virtuelle à bord, températures et usure pneus, journal des événements, courbe de rythme, et la fenêtre du prochain arrêt. La longueur d'une course en durée y est **estimée au rythme mesuré** et présentée comme telle — le jeu ne la publie pas.
 
 <div align="center">
-<img src="docs/images/" width="900" alt="Module Pit Wall" />
+<img src="docs/images/pitwall.png" width="900" alt="Module Pit Wall" />
 <br/><sub><i>Aperçu de l'interface — rendu reconstruit depuis le code de l'application.</i></sub>
 </div>
 
